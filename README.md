@@ -2,7 +2,7 @@
 
 **`Estudante de análise e desenvolvimento de sistema`**
 
-Me chamo Eduarda Jaqueline Pontes, tenho 22 anos e sou natural de Cruzeiro - SP. Concluí o ensino técnico em Informática para Internet na ETEC Cruzeiro – Prof. José Sant’Ana de Castro em 2023. Atualmente, estou cursando o 4º semestre do curso de Análise e Desenvolvimento de Sistemas, no período matutino, na Fatec Cruzeiro – Prof. Waldomiro May.
+Me chamo Eduarda Jaqueline Pontes, tenho 22 anos e sou de Cruzeiro - SP. Concluí o ensino técnico em Informática para Internet na ETEC Cruzeiro – Prof. José Sant’Ana de Castro em 2023. Atualmente, estou cursando o 4º semestre do curso de Análise e Desenvolvimento de Sistemas, no período matutino, na Fatec Cruzeiro – Prof. Waldomiro May.
 
 <p align="left">
     <a href="https://github.com/djpontes?tab=followers"  target="_blank"> 
