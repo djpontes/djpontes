@@ -8,7 +8,7 @@ Me chamo Eduarda Jaqueline Pontes, tenho 22 anos e sou de Cruzeiro - SP. Conclu√
     <a href="https://github.com/djpontes?tab=followers"  target="_blank"> 
         <img src="https://custom-icon-badges.demolab.com/github/followers/djpontes?color=pink&labelColor=pink&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
-    <a href = "eduarda.pontes@fatec.sp.gov.br">
+    <a href = "mailto:eduarda.pontes@fatec.sp.gov.br">
         <img src="https://img.shields.io/badge/-Gmail-%23333?color=red&style=for-the-badge&logo=gmail&logoColor=white&labelColor=red" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/eduarda-pontes-63025328b/" target="_blank">
