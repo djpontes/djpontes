@@ -5,7 +5,7 @@
 Me chamo Eduarda Jaqueline Pontes, tenho 22 anos e sou de Cruzeiro - SP. Concluí o ensino técnico em Informática para Internet na ETEC Cruzeiro – Prof. José Sant’Ana de Castro em 2023. Atualmente, estou cursando o 4º semestre do curso de Análise e Desenvolvimento de Sistemas, no período matutino, na Fatec Cruzeiro – Prof. Waldomiro May.
 
 <p align="left">
-    <a href=""  target="_blank"> 
+    <a href="https://github.com/djpontes?tab=followers"  target="_blank"> 
         <img src="https://custom-icon-badges.demolab.com/github/followers/djpontes?color=pink&labelColor=pink&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
     <a href = "mailto:eduarda.pontes@fatec.sp.gov.br">
